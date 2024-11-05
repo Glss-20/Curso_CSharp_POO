@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|d:\\documents\\estudos_lacerda\\curso - poo_c#\\expolimorfismo20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|d:\\documents\\estudos_lacerda\\curso - poo_c#\\expolimorfismo20\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|solutionrelative:entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|d:\\documents\\estudos_lacerda\\curso - poo_c#\\expolimorfismo20\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|solutionrelative:entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|d:\\documents\\estudos_lacerda\\curso - poo_c#\\expolimorfismo20\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|solutionrelative:entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|d:\\documents\\estudos_lacerda\\curso - poo_c#\\expolimorfismo20\\entities\\enums\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF39A56-DE54-4881-8C6A-F325AEB849B7}|ExPolimorfismo20.csproj|solutionrelative:entities\\enums\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:21:24.734Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Entities\\Circle.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Entities\\Circle.cs",
+              "RelativeToolTip": "Entities\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:28:00.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Entities\\Rectangle.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Entities\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:13:25.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Entities\\Enums\\Cor.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\Cor.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Entities\\Enums\\Cor.cs",
+              "RelativeToolTip": "Entities\\Enums\\Cor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:08:07.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "Entities\\Shape.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExPolimorfismo20\\Entities\\Shape.cs",
+              "RelativeToolTip": "Entities\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:07:30.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

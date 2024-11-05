@@ -1,0 +1,14 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\bin\Debug\net8.0\ExSalario.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\bin\Debug\net8.0\ExSalario.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\bin\Debug\net8.0\ExSalario.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\bin\Debug\net8.0\ExSalario.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\bin\Debug\net8.0\ExSalario.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\ExSalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\ExSalario.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\ExSalario.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\ExSalario.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\ExSalario.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\refint\ExSalario.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\ExSalario.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\ExSalario.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_POO_C#\ExSalario\obj\Debug\net8.0\ref\ExSalario.dll

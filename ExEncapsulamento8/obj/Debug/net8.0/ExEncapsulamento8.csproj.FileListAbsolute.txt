@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\bin\Debug\net8.0\ExEncapsulamento8.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\bin\Debug\net8.0\ExEncapsulamento8.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\bin\Debug\net8.0\ExEncapsulamento8.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\bin\Debug\net8.0\ExEncapsulamento8.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\bin\Debug\net8.0\ExEncapsulamento8.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ExEncapsulamento8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ExEncapsulamento8.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ExEncapsulamento8.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ExEncapsulamento8.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ExEncapsulamento8.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ExEncapsulamento8.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\refint\ExEncapsulamento8.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ExEncapsulamento8.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ExEncapsulamento8.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento8\obj\Debug\net8.0\ref\ExEncapsulamento8.dll

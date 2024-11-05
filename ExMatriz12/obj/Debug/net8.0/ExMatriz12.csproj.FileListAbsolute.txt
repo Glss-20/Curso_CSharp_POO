@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\bin\Debug\net8.0\ExMatriz12.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\bin\Debug\net8.0\ExMatriz12.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\bin\Debug\net8.0\ExMatriz12.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\bin\Debug\net8.0\ExMatriz12.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\bin\Debug\net8.0\ExMatriz12.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ExMatriz12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ExMatriz12.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ExMatriz12.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ExMatriz12.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ExMatriz12.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ExMatriz12.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\refint\ExMatriz12.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ExMatriz12.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ExMatriz12.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExMatriz12\obj\Debug\net8.0\ref\ExMatriz12.dll

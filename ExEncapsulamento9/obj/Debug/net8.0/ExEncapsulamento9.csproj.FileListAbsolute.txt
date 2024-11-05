@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ExEncapsulamento9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ExEncapsulamento9.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ExEncapsulamento9.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ExEncapsulamento9.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ExEncapsulamento9.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\bin\Debug\net8.0\ExEncapsulamento9.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\bin\Debug\net8.0\ExEncapsulamento9.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\bin\Debug\net8.0\ExEncapsulamento9.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\bin\Debug\net8.0\ExEncapsulamento9.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\bin\Debug\net8.0\ExEncapsulamento9.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ExEncapsulamento9.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\refint\ExEncapsulamento9.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ExEncapsulamento9.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ExEncapsulamento9.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEncapsulamento9\obj\Debug\net8.0\ref\ExEncapsulamento9.dll

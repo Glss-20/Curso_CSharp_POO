@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ExPolimorfismo20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ExPolimorfismo20.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ExPolimorfismo20.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ExPolimorfismo20.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ExPolimorfismo20.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\bin\Debug\net8.0\ExPolimorfismo20.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\bin\Debug\net8.0\ExPolimorfismo20.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\bin\Debug\net8.0\ExPolimorfismo20.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\bin\Debug\net8.0\ExPolimorfismo20.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\bin\Debug\net8.0\ExPolimorfismo20.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ExPolimorfismo20.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\refint\ExPolimorfismo20.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ExPolimorfismo20.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ExPolimorfismo20.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExPolimorfismo20\obj\Debug\net8.0\ref\ExPolimorfismo20.dll

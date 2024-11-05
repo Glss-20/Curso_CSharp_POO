@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\bin\Debug\net8.0\ExEnumAndComposition15.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\bin\Debug\net8.0\ExEnumAndComposition15.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\bin\Debug\net8.0\ExEnumAndComposition15.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\bin\Debug\net8.0\ExEnumAndComposition15.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\bin\Debug\net8.0\ExEnumAndComposition15.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ExEnumAndComposition15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ExEnumAndComposition15.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ExEnumAndComposition15.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ExEnumAndComposition15.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ExEnumAndComposition15.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ExEnumAndComposition15.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\refint\ExEnumAndComposition15.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ExEnumAndComposition15.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ExEnumAndComposition15.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition15\obj\Debug\net8.0\ref\ExEnumAndComposition15.dll

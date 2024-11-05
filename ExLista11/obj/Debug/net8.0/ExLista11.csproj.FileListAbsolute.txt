@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ExLista11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ExLista11.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ExLista11.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ExLista11.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ExLista11.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\bin\Debug\net8.0\ExLista11.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\bin\Debug\net8.0\ExLista11.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\bin\Debug\net8.0\ExLista11.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\bin\Debug\net8.0\ExLista11.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\bin\Debug\net8.0\ExLista11.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ExLista11.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\refint\ExLista11.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ExLista11.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ExLista11.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExLista11\obj\Debug\net8.0\ref\ExLista11.dll

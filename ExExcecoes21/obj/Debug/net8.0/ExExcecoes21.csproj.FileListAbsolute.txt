@@ -1,0 +1,14 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\ExExcecoes21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\ExExcecoes21.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\ExExcecoes21.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\ExExcecoes21.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\bin\Debug\net8.0\ExExcecoes21.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\bin\Debug\net8.0\ExExcecoes21.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\bin\Debug\net8.0\ExExcecoes21.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\bin\Debug\net8.0\ExExcecoes21.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\bin\Debug\net8.0\ExExcecoes21.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\ExExcecoes21.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\refint\ExExcecoes21.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\ExExcecoes21.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\ExExcecoes21.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExExcecoes21\obj\Debug\net8.0\ref\ExExcecoes21.dll

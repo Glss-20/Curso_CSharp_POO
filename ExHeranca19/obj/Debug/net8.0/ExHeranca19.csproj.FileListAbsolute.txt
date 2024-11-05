@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ExHeranca19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ExHeranca19.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ExHeranca19.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ExHeranca19.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ExHeranca19.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\bin\Debug\net8.0\ExHeranca19.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\bin\Debug\net8.0\ExHeranca19.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\bin\Debug\net8.0\ExHeranca19.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\bin\Debug\net8.0\ExHeranca19.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\bin\Debug\net8.0\ExHeranca19.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ExHeranca19.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\refint\ExHeranca19.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ExHeranca19.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ExHeranca19.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca19\obj\Debug\net8.0\ref\ExHeranca19.dll

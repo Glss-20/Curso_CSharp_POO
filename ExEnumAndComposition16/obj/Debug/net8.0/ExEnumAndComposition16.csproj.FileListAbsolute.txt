@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ExEnumAndComposition16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ExEnumAndComposition16.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ExEnumAndComposition16.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ExEnumAndComposition16.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ExEnumAndComposition16.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\bin\Debug\net8.0\ExEnumAndComposition16.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\bin\Debug\net8.0\ExEnumAndComposition16.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\bin\Debug\net8.0\ExEnumAndComposition16.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\bin\Debug\net8.0\ExEnumAndComposition16.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\bin\Debug\net8.0\ExEnumAndComposition16.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ExEnumAndComposition16.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\refint\ExEnumAndComposition16.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ExEnumAndComposition16.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ExEnumAndComposition16.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExEnumAndComposition16\obj\Debug\net8.0\ref\ExEnumAndComposition16.dll

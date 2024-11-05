@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\bin\Debug\net8.0\ExHeranca18.exe
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\bin\Debug\net8.0\ExHeranca18.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\bin\Debug\net8.0\ExHeranca18.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\bin\Debug\net8.0\ExHeranca18.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\bin\Debug\net8.0\ExHeranca18.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ExHeranca18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ExHeranca18.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ExHeranca18.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ExHeranca18.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ExHeranca18.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ExHeranca18.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\refint\ExHeranca18.dll
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ExHeranca18.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ExHeranca18.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso - POO_C#\ExHeranca18\obj\Debug\net8.0\ref\ExHeranca18.dll
