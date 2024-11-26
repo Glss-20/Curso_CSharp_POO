@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGenerics29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CE70A0-FDB1-42C0-B53E-600EF303A2F3}|ExGenerics29.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\exgenerics29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CE70A0-FDB1-42C0-B53E-600EF303A2F3}|ExGenerics29.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CE70A0-FDB1-42C0-B53E-600EF303A2F3}|ExGenerics29.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\exgenerics29\\calculationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CE70A0-FDB1-42C0-B53E-600EF303A2F3}|ExGenerics29.csproj|solutionrelative:calculationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CE70A0-FDB1-42C0-B53E-600EF303A2F3}|ExGenerics29.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\exgenerics29\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CE70A0-FDB1-42C0-B53E-600EF303A2F3}|ExGenerics29.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGenerics29\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGenerics29\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:34:46.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGenerics29\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGenerics29\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:04:51.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationsService.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGenerics29\\CalculationsService.cs",
+              "RelativeDocumentMoniker": "CalculationsService.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGenerics29\\CalculationsService.cs",
+              "RelativeToolTip": "CalculationsService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:36:01.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGeneric28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF1150E-78FD-4C12-B5AE-8DDD96C8CC35}|ExGeneric28.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\exgeneric28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF1150E-78FD-4C12-B5AE-8DDD96C8CC35}|ExGeneric28.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF1150E-78FD-4C12-B5AE-8DDD96C8CC35}|ExGeneric28.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\exgeneric28\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF1150E-78FD-4C12-B5AE-8DDD96C8CC35}|ExGeneric28.csproj|solutionrelative:printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGeneric28\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGeneric28\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:49:31.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGeneric28\\PrintService.cs",
+              "RelativeDocumentMoniker": "PrintService.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\ExGeneric28\\PrintService.cs",
+              "RelativeToolTip": "PrintService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:51:27.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

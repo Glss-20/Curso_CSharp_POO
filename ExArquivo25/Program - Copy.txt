@@ -1,0 +1,42 @@
+﻿using System;
+using System.IO; // Inclui o namespace System.IO, que contém classes para manipulação de arquivos.
+
+namespace ExArquivo25
+{
+    internal class Program1
+    {
+        static void Main(string[] args)
+        {
+            // Define o caminho do arquivo de origem. Esse arquivo será lido.
+            string sourcePath = @"D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo25\Teste_ExArquivo1.txt";
+
+            // Define o caminho do arquivo de destino. Esse arquivo será atualizado com novas informações.
+            string targetPath = @"D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo25\Teste_ExArquivo1.txt";
+
+            try
+            {
+                // Lê todas as linhas do arquivo especificado em sourcePath e armazena cada linha como um elemento do array de strings "lines".
+                string[] lines = File.ReadAllLines(sourcePath);
+
+                // Abre o arquivo de destino para adicionar texto no final.
+                // O bloco using garante que o StreamWriter (sw) será automaticamente fechado após o uso.
+                using (StreamWriter sw = File.AppendText(targetPath))
+                {
+                    // Percorre cada linha do array "lines".
+                    foreach (string line in lines)
+                    {
+                        // Escreve a linha em letras maiúsculas no arquivo de destino.
+                        // WriteLine adiciona cada linha e pula para a próxima linha no arquivo.
+                        sw.WriteLine(line.ToUpper());
+                    }
+                }
+            }
+            catch (IOException ex)
+            {
+                // Captura qualquer erro de entrada/saída (IOException) que possa ocorrer no bloco try.
+                // Exibe a mensagem de erro no console caso aconteça uma exceção.
+                Console.WriteLine(ex.Message);
+            }
+        }
+    }
+}

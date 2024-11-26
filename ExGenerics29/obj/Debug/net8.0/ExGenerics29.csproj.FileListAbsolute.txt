@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\bin\Debug\net8.0\ExGenerics29.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\bin\Debug\net8.0\ExGenerics29.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\bin\Debug\net8.0\ExGenerics29.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\bin\Debug\net8.0\ExGenerics29.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\bin\Debug\net8.0\ExGenerics29.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ExGenerics29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ExGenerics29.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ExGenerics29.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ExGenerics29.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ExGenerics29.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ExGenerics29.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\refint\ExGenerics29.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ExGenerics29.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ExGenerics29.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExGenerics29\obj\Debug\net8.0\ref\ExGenerics29.dll

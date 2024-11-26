@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\bin\Debug\net8.0\ExArquivo27.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\bin\Debug\net8.0\ExArquivo27.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\bin\Debug\net8.0\ExArquivo27.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\bin\Debug\net8.0\ExArquivo27.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\bin\Debug\net8.0\ExArquivo27.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ExArquivo27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ExArquivo27.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ExArquivo27.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ExArquivo27.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ExArquivo27.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ExArquivo27.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\refint\ExArquivo27.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ExArquivo27.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ExArquivo27.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo27\obj\Debug\net8.0\ref\ExArquivo27.dll

@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\bin\Debug\net8.0\ExArquivo24.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\bin\Debug\net8.0\ExArquivo24.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\bin\Debug\net8.0\ExArquivo24.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\bin\Debug\net8.0\ExArquivo24.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\bin\Debug\net8.0\ExArquivo24.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ExArquivo24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ExArquivo24.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ExArquivo24.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ExArquivo24.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ExArquivo24.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ExArquivo24.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\refint\ExArquivo24.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ExArquivo24.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ExArquivo24.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExArquivo24\obj\Debug\net8.0\ref\ExArquivo24.dll
