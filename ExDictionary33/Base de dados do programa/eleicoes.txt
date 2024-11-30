@@ -1,0 +1,6 @@
+jonas, 14
+gab,15
+vinicius, 13
+jonas, 26
+vinicius, 17
+gab, 35

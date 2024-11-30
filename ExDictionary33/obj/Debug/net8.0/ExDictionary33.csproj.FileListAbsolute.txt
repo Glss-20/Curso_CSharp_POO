@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\bin\Debug\net8.0\ExDictionary33.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\bin\Debug\net8.0\ExDictionary33.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\bin\Debug\net8.0\ExDictionary33.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\bin\Debug\net8.0\ExDictionary33.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\bin\Debug\net8.0\ExDictionary33.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ExDictionary33.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ExDictionary33.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ExDictionary33.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ExDictionary33.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ExDictionary33.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ExDictionary33.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\refint\ExDictionary33.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ExDictionary33.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ExDictionary33.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExDictionary33\obj\Debug\net8.0\ref\ExDictionary33.dll

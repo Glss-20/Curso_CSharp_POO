@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\bin\Debug\net8.0\ExConjuntos31.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\bin\Debug\net8.0\ExConjuntos31.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\bin\Debug\net8.0\ExConjuntos31.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\bin\Debug\net8.0\ExConjuntos31.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\bin\Debug\net8.0\ExConjuntos31.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ExConjuntos31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ExConjuntos31.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ExConjuntos31.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ExConjuntos31.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ExConjuntos31.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ExConjuntos31.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\refint\ExConjuntos31.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ExConjuntos31.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ExConjuntos31.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\ExConjuntos31\obj\Debug\net8.0\ref\ExConjuntos31.dll
