@@ -1,0 +1,3 @@
+Joao, joao@cozinha.com.br, 1500
+Emanuel, emanuel@marcenaria.com.br, 5000
+Douglas, douglas@adm.com.br, 3000

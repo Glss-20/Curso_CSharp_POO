@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\bin\Debug\net8.0\Delegate36.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\bin\Debug\net8.0\Delegate36.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\bin\Debug\net8.0\Delegate36.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\bin\Debug\net8.0\Delegate36.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\bin\Debug\net8.0\Delegate36.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\Delegate36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\Delegate36.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\Delegate36.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\Delegate36.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\Delegate36.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\Delegate36.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\refint\Delegate36.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\Delegate36.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\Delegate36.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Delegate36\obj\Debug\net8.0\ref\Delegate36.dll
