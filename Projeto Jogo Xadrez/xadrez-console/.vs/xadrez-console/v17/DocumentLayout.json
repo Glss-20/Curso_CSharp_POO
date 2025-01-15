@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|d:\\documents\\estudos_lacerda\\curso_csharp_poo - 11.10.24\\projeto jogo xadrez\\xadrez-console\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC06458-EBE9-461F-A1B2-DD507ED34476}|xadrez-console.csproj|solutionrelative:tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T01:57:10.965Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartidaDeXadrez.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\xadrez\\PartidaDeXadrez.cs",
+              "RelativeDocumentMoniker": "xadrez\\PartidaDeXadrez.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\xadrez\\PartidaDeXadrez.cs",
+              "RelativeToolTip": "xadrez\\PartidaDeXadrez.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:55:50.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\Tela.cs",
+              "RelativeDocumentMoniker": "Tela.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\Tela.cs",
+              "RelativeToolTip": "Tela.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T02:28:06.355Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "tabuleiro\\Tabuleiro.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwD8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:17:42.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Torre.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\xadrez\\Torre.cs",
+              "RelativeDocumentMoniker": "xadrez\\Torre.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\xadrez\\Torre.cs",
+              "RelativeToolTip": "xadrez\\Torre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:27:51.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rei.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\xadrez\\Rei.cs",
+              "RelativeDocumentMoniker": "xadrez\\Rei.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\xadrez\\Rei.cs",
+              "RelativeToolTip": "xadrez\\Rei.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:21:49.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PosicaoXadrez.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\xadrez\\PosicaoXadrez.cs",
+              "RelativeDocumentMoniker": "xadrez\\PosicaoXadrez.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\xadrez\\PosicaoXadrez.cs",
+              "RelativeToolTip": "xadrez\\PosicaoXadrez.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:53:16.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "tabuleiro\\Peca.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\Peca.cs",
+              "RelativeToolTip": "tabuleiro\\Peca.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:14:32.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\Cor.cs",
+              "RelativeDocumentMoniker": "tabuleiro\\Cor.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\Cor.cs",
+              "RelativeToolTip": "tabuleiro\\Cor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:13:26.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\Posicao.cs",
+              "RelativeDocumentMoniker": "tabuleiro\\Posicao.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\Posicao.cs",
+              "RelativeToolTip": "tabuleiro\\Posicao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:04:05.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TabuleiroException.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\TabuleiroException.cs",
+              "RelativeDocumentMoniker": "tabuleiro\\TabuleiroException.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso_CSharp_POO - 11.10.24\\Projeto Jogo Xadrez\\xadrez-console\\tabuleiro\\TabuleiroException.cs",
+              "RelativeToolTip": "tabuleiro\\TabuleiroException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:28:50.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

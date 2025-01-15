@@ -1,0 +1,15 @@
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.exe
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.deps.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.runtimeconfig.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\bin\Debug\net8.0\xadrez-console.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfoInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.AssemblyInfo.cs
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.csproj.CoreCompileInputs.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.sourcelink.json
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\refint\xadrez-console.dll
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.pdb
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
+D:\Documents\ESTUDOS_LACERDA\Curso_CSharp_POO - 11.10.24\Projeto Jogo Xadrez\xadrez-console\obj\Debug\net8.0\ref\xadrez-console.dll
