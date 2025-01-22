@@ -1,0 +1,138 @@
+Criação do Banco de Dados
+--------------------------
+- Cria o projeto no Visual Studio do tipo ASP.NET Core WebApplication.
+  Certifique-se de escolher o modelo "Web App (Model-View-Controller)".
+
+- O banco de dados é relacional, ou seja, possui uma estrutura de tabelas 
+  organizadas por colunas (atributos) e linhas (dados).
+
+
+
+Mapeamento Objeto-Relacional (ORM)
+-----------------------------------
+- Para integrar um programa orientado a objetos com um banco de dados relacional, 
+  utilizamos o ORM (Mapeamento Objeto-Relacional).
+
+- O Entity Framework Core é a principal ferramenta de ORM no ecossistema .NET.
+
+
+
+MVC (Model-View-Controller)
+----------------------------
+- VIEW: Responsável pelas telas. Inclui arquivos .cshtml com sintaxe Razor 
+        para exibir os dados de forma dinâmica.
+
+- CONTROLLER: Trata as requisições HTTP (GET, POST, etc.) e decide qual VIEW ou 
+              resposta retornar. Também coordena o fluxo entre o Modelo e a View.
+
+- MODEL: Representa as entidades do sistema e os serviços que interagem com os dados, 
+         incluindo validações e lógica de negócios.
+
+
+
+Entity Framework e DbContext
+-----------------------------
+- O DbContext é a classe principal do Entity Framework. Ele gerencia as interações 
+  com o banco de dados.
+
+- Criamos uma classe como SalesWebDbContext. Nessa classe, adicionamos as entidades 
+  utilizando o DbSet<T> para definir as tabelas. 
+
+Exemplo:
+  
+  public class SalesWebDbContext : DbContext
+  {
+      public DbSet<Carro> Carros { get; set; }
+      public DbSet<Estacionamento> Estacionamentos { get; set; }
+  }
+
+
+
+Estrutura do Projeto
+---------------------
+- wwwroot: Pasta onde ficam os arquivos estáticos, como CSS, JavaScript, imagens 
+           e outros recursos do frontend.
+
+- HomeController: Controlador inicial que gerencia as páginas principais, como a homepage.
+
+
+
+Migrações
+----------
+- As migrações geram a estrutura do banco de dados com base nas classes de modelo.
+
+- Comandos principais:
+
+  - Add-Migration NomeDaMigracao: Cria uma nova migração com base nas alterações realizadas no modelo.
+
+  - Update-Database: Aplica as migrações pendentes ao banco de dados.
+
+
+
+Relações entre Objetos (ORM)
+-----------------------------
+- Quando temos uma relação 1 para Muitos entre dois objetos, o objeto que "recebe muitos" 
+  inclui uma lista (ICollection<T>) do outro objeto.
+
+- Exemplo:
+
+  Classe Estacionamento:
+  public class Estacionamento
+  {
+      public int Id { get; set; }
+      public string Nome { get; set; }
+      public ICollection<Carro> Carros { get; set; } = new List<Carro>();
+  }
+
+
+  Classe Carro:
+  public class Carro
+  {
+      public int Id { get; set; }
+      public string Modelo { get; set; }
+      public int EstacionamentoId { get; set; }
+      public Estacionamento Estacionamento { get; set; }
+  }
+
+
+
+LINQ
+-----
+- LINQ (Language Integrated Query) é amplamente utilizado para realizar consultas 
+  e filtros sobre coleções de objetos ou dados no banco de dados.
+
+- Exemplo:
+  var carrosNoEstacionamento = context.Carros
+      .Where(c => c.EstacionamentoId == 1)
+      .ToList();
+
+
+
+Funcionamento das Rotas e Controladores
+----------------------------------------
+- No ASP.NET Core, as rotas configuradas chamam os métodos correspondentes nos controladores.
+
+- Quando o usuário interage com a aplicação (ex.: clicando em um link), o framework direciona 
+  a requisição para o método do controlador responsável.
+
+- Exemplo de rota no controlador:
+  [HttpGet]
+  public IActionResult Index()
+  {
+      return View();
+  }
+
+
+
+Sugestões Adicionais
+---------------------
+- Startup.cs ou Program.cs: Configura serviços (como Entity Framework, autenticação) 
+                             e define o pipeline de requisição HTTP.
+
+- Injeção de Dependência: ASP.NET Core utiliza um sistema integrado de injeção de dependência 
+                          para facilitar o gerenciamento de serviços.
+
+ Exemplo:
+
+  services.AddDbContext<SalesWebDbContext>(options =>
+      options.UseSqlServer("ConnectionString"));
